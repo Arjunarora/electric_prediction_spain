@@ -1,0 +1,7 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+energy-consumption-generation-prices-and-weather/
+kaggle.json
+*.joblib
+.DS_Store
